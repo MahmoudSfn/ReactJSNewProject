@@ -5,8 +5,9 @@ React
 webpack > already setup in this project
 Babel 7
 
-> STEP 1: Extract node_module.zip file then delete the compressed copy 
-> STEP 2: Run the command in your folder: ```$npm start```
+`STEP 1:` Extract node_module.zip file then delete the compressed copy 
+
+`STEP 2:` Run the command in your folder: ```$npm start```
 
 the local server will run automaticly in your browser on the localhost:8080
 
