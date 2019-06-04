@@ -2,8 +2,8 @@
 You can use this code as base to start your ReactJS project and run it on local server
 ______________
 | * React    |
-| * webpack  |----->  already setup in this project
-| * Babel 7  |
+| * webpack  |
+| * Babel 7  |----->  already setup in this project
 ______________
 
  
